@@ -9,12 +9,15 @@ The project consists of two main components:
 - **OknoZLabelami**: Dialog windows for editing detailed information related to each dot on the timeline.
 
 ## Features
+- **Adding Dots**: Upon launching the program, the user sees an empty timeline. To add a dot, simply click the middle mouse button on the timeline, enter a number, and confirm the selection. After these steps, a new dot appears on the timeline.
 
-- **Dynamic Timeline**: Display events along a customizable timeline.
-- **Event Management**: Add, edit, and delete events interactively.
-- **Event Details**: Double-click on a timeline dot to view and edit details like season, time of day, location, people, and events associated with that dot.
-- **Color Customization**: Choose colors for timeline dots and save preferences.
-- **Persistence**: Data such as event details and colors are saved in text files (`info.txt` and `colors.txt`) for persistent storage.
+- **Categorization**: Double-clicking the left mouse button on a dot opens a category window. Categories are marked with colors, and next to each category is text describing it. To change the category text, double-click on it to open a window for entering new text and confirming the changes.
+
+- **Moving Dots**: Hold the left mouse button on the dot and drag it to the desired position, then release the button.
+
+- **Changing Dot Color**: To change the color of a dot, the user clicks Button-5 (one of the side buttons on the mouse), which opens a color selection window. After selecting a color, confirm the changes.
+
+- **Deleting Dots**: Deleting a dot from the timeline is simple. Right-click on the dot, and the program will execute the deletion.
 
 ## File Structure
 
