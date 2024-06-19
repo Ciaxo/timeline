@@ -8,6 +8,20 @@ The project consists of two main components:
 - **LiniaCzasuApp**: An interface for visualizing and manipulating dots on a timeline.
 - **OknoZLabelami**: Dialog windows for editing detailed information related to each dot on the timeline.
 
+## Features
+
+- **Dynamic Timeline**: Display events along a customizable timeline.
+- **Event Management**: Add, edit, and delete events interactively.
+- **Event Details**: Double-click on a timeline dot to view and edit details like season, time of day, location, people, and events associated with that dot.
+- **Color Customization**: Choose colors for timeline dots and save preferences.
+- **Persistence**: Data such as event details and colors are saved in text files (`info.txt` and `colors.txt`) for persistent storage.
+
+## File Structure
+
+- `timeline.py`: Main application file containing the tkinter GUI setup.
+- `info.txt`: Stores event details associated with each dot on the timeline.
+- `colors.txt`: Stores color preferences for each dot on the timeline.
+
 ### LiniaCzasuApp
 
 The `LiniaCzasuApp` class creates an interactive interface that includes a timeline and allows for adding, moving, editing, and deleting dots representing events on the timeline.
