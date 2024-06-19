@@ -1,6 +1,7 @@
 # TimeLine
 
-This project was created to facilitate determining the chronological order of events based on small pieces of information, such as those presented in the book "Cain's Jawbone" by Ernest Powys Mathers.
+This project was created to facilitate determining the chronological order of facts based on small pieces of information, such as those presented in the book "Cain's Jawbone" by Ernest Powys Mathers.
+---
 
 ## Project Description
 
@@ -9,7 +10,7 @@ The project consists of two main components:
 - **OknoZLabelami**: Dialog windows for editing detailed information related to each dot on the timeline.
 
 ## Features
-- **Adding Dots**: Upon launching the program, the user sees an empty timeline. To add a dot, simply click the middle mouse button on the timeline, enter a number, and confirm the selection. After these steps, a new dot appears on the timeline.
+- **Adding Dots**: Upon launching the program, the user sees an empty timeline. To add a dot, simply click the middle mouse button on the timeline, enter a **number**, and confirm the selection. After these steps, a new dot appears on the timeline.
 
 - **Categorization**: Double-clicking the left mouse button on a dot opens a category window. Categories are marked with colors, and next to each category is text describing it. To change the category text, double-click on it to open a window for entering new text and confirming the changes.
 
@@ -49,3 +50,6 @@ The `OknoZLabelami` class handles displaying a dialog window with five categorie
 ### Technologies
 
 The project utilizes the `tkinter` library for building the graphical interface and file operations for storing dot data and their details.
+
+## Screenshot
+![TimeLine Example](TimeLine Example.png)
