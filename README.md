@@ -2,6 +2,8 @@
 
 This project was created to facilitate determining the chronological order of facts based on small pieces of information, such as those presented in the book "Cain's Jawbone" by Ernest Powys Mathers.
 
+![TimeLine Example](https://github.com/Ciaxo/timeline/blob/main/TimeLine%20Example.png)
+
 ## Project Description
 
 The project consists of two main components:
@@ -49,6 +51,3 @@ The `OknoZLabelami` class handles displaying a dialog window with five categorie
 ### Technologies
 
 The project utilizes the `tkinter` library for building the graphical interface and file operations for storing dot data and their details.
-
-## Screenshot
-![TimeLine Example](https://github.com/Ciaxo/timeline/blob/main/TimeLine%20Example.png)
