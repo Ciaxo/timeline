@@ -51,4 +51,4 @@ The `OknoZLabelami` class handles displaying a dialog window with five categorie
 The project utilizes the `tkinter` library for building the graphical interface and file operations for storing dot data and their details.
 
 ## Screenshot
-![TimeLine Example](TimeLine Example.png)
+![TimeLine Example]([TimeLine Example.png](https://github.com/Ciaxo/timeline/blob/main/TimeLine%20Example.png))
