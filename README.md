@@ -2,8 +2,6 @@
 
 This project was created to facilitate determining the chronological order of facts based on small pieces of information, such as those presented in the book "Cain's Jawbone" by Ernest Powys Mathers.
 
----
-
 ## Project Description
 
 The project consists of two main components:
