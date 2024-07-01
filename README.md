@@ -1,6 +1,6 @@
 # TimeLine
 
-This project was created to facilitate determining the chronological order of facts based on small pieces of information, such as those presented in the book "Cain's Jawbone" by Ernest Powys Mathers.
+This project was created to help determining the chronological order of facts based on small pieces of information, such as those presented in the book "Cain's Jawbone" by Ernest Powys Mathers.
 
 ![TimeLine Example](https://github.com/Ciaxo/timeline/blob/main/TimeLine%20Example.png)
 
